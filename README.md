@@ -2,9 +2,8 @@ Digital Acumen | Rhodes University Integrated Assignment 2026
 
 Project Overview
 
-This project explores the application of Digital Acumen in accounting and business, using Discovery Group Limited as the case study.
+<img width="709" height="338" alt="image" src="https://github.com/user-attachments/assets/2800d2de-74dc-4d62-8604-1724d80781af" />
 
-The project examines how technology, particularly Artificial Intelligence (AI), influences business operations, financial reporting and decision-making. It also applies Microsoft Excel analytical tools to evaluate financial performance over a five-year period.
 
 Project Components
 
